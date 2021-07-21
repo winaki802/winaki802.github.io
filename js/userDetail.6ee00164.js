@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["userDetail"],{"7cd5":function(e,s,t){"use strict";t.r(s);var n=function(){var e=this,s=e.$createElement,t=e._self._c||s;return t("div",{staticClass:"Home"},[t("h1",[e._v("This is an UserDetail page ")]),t("h2",[e._v(e._s(e.userID))])])},r=[],u={computed:{userID:function(){return this.$route.params.id}}},a=u,i=t("2877"),c=Object(i["a"])(a,n,r,!1,null,null,null);s["default"]=c.exports}}]);
+//# sourceMappingURL=userDetail.6ee00164.js.map
