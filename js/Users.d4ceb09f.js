@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["Users"],{ed81:function(e,n,t){"use strict";t.r(n);var s=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},o=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticClass:"Home"},[t("h1",[e._v("This is an Users page ")])])}],u={name:"Home",components:{},data:function(){return{userID:null}},mounted:function(){console.log("users mounted")}},r=u,a=t("2877"),c=Object(a["a"])(r,s,o,!1,null,null,null);n["default"]=c.exports}}]);
+//# sourceMappingURL=Users.d4ceb09f.js.map
