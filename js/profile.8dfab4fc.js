@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["profile"],{c66d:function(e,t,n){"use strict";n.r(t);var l=function(){var e=this,t=e.$createElement;e._self._c;return e._m(0)},o=[function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticClass:"Home"},[n("h1",[e._v("This is an Profile page ")])])}],r={name:"Profile",components:{},created:function(){null===localStorage.getItem("token")&&this.$router.push("/login")}},i=r,s=n("2877"),a=Object(s["a"])(i,l,o,!1,null,null,null);t["default"]=a.exports}}]);
+//# sourceMappingURL=profile.8dfab4fc.js.map
