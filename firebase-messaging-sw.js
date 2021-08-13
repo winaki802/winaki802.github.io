@@ -20,7 +20,7 @@ self.addEventListener('push', function (event) {
     image: '',
     actions: [{
       action: 'info',
-      title: '알람상세 페이지로 이동합니다.',
+      title: '알람메시지 확인',
       icon: '/img/push-info.png'
     }],
     vibrate: [500, 100, 500]
